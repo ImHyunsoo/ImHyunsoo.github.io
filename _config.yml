@@ -4,6 +4,7 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
+futrue: true
 
 # Name of website
 title: Hyunsoo's DEV blog
@@ -255,5 +256,3 @@ plugins:
   - jekyll-sitemap
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-futrue: true
