@@ -1,6 +1,8 @@
 ---
 layout: post
+published: true
 title: "포스트 테스트"
+subtitle: "부제목 테스트"
 ---
 
 # 안녕하세요
